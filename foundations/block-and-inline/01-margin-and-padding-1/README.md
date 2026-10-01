@@ -12,3 +12,10 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 - There is a 48px gap between Div Two and Div Three.
 - Div Three is aligned to the right.
 - Div Three's alignment is achieved using `margin` (and not float, flexbox, etc.).
+
+Tradução:
+As divs "One" e "Three" possuem um espaçamento de 32px entre o texto e a borda.
+- A div "One" mantém um espaçamento de 12px em relação a qualquer outro elemento da página. ok
+- Há um espaçamento de 48px entre as divs "Two" e "Three".
+- A div "Three" está alinhada à direita.OK
+- O alinhamento da div "Three" é feito utilizando `margin` (e não float, flexbox, etc.). OK
